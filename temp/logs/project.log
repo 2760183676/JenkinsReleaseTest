@@ -1,0 +1,11 @@
+3-14-2025 16:01:29 - log: Load engine in /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine
+3-14-2025 16:01:29 - log: Register native engine in /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+3-14-2025 16:01:30 - log: Request namespace: device-list
+3-14-2025 16:01:47 - log: [Scene] meshopt wasm decoder initialized
+3-14-2025 16:01:47 - log: [Scene] [bullet]:bullet wasm lib loaded.
+3-14-2025 16:01:47 - log: [Scene] [box2d]:box2d wasm lib loaded.
+3-14-2025 16:01:47 - log: [Scene] [PHYSICS]: using builtin.
+3-14-2025 16:01:47 - log: [Scene] Cocos Creator v3.8.3
+3-14-2025 16:01:47 - info: [Scene] Forward render pipeline initialized.
+3-14-2025 16:01:47 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+3-14-2025 16:01:47 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
